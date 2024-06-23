@@ -1,0 +1,20 @@
+﻿service
+
+
+winexe
+C#
+.cs
+C:\Users\shara\OneDrive\Рабочий стол\t\Т\20is_15\Шарапов\service\obj\Debug\net7.0-windows\
+service
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\shara\OneDrive\Рабочий стол\t\Т\20is_15\Шарапов\service\App.xaml
+10-1807687524
+
+20-1809635129
+214-2120062897
+MainWindow.xaml;Window\AddUser.xaml;Window\Authorization.xaml;Window\AutodiagnostMenu.xaml;Window\MasterMenu.xaml;Window\MehanicMenu.xaml;Window\OrdersForAutodiagnost.xaml;Window\OrdersForMaster.xaml;Window\OrdersForMehanic.xaml;Window\Users.xaml;
+
+False
+

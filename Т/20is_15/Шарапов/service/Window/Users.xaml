@@ -1,0 +1,30 @@
+﻿<Window x:Class="RealEstateAgency.Window.Users"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealEstateAgency.Window"
+        Title="Пользователи" Height="696" Width="1479" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <TextBlock FontSize="30" TextAlignment="Center" FontWeight="Bold">Пользователи</TextBlock>
+            <DataGrid Name="UsersDataGrid" AutoGenerateColumns="False" Margin="10" Height="427" FontSize="20">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="№" Binding="{Binding Userid}" Width="Auto"/>
+                    <DataGridTextColumn Header="Фамилия" Binding="{Binding Lastname}" Width="*"/>
+                    <DataGridTextColumn Header="Имя" Binding="{Binding Firstname}" Width="*"/>
+                    <DataGridTextColumn Header="Отчество" Binding="{Binding Middlename}" Width="*"/>
+                    <DataGridTextColumn Header="Роль" Binding="{Binding Userrole.Namerole}" Width="*"/>
+                    <DataGridTextColumn Header="Логин" Binding="{Binding Login}" Width="*"/>
+                    <DataGridTextColumn Header="Пароль" Binding="{Binding Password}" Width="*"/>
+                    <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel Orientation="Vertical">
+                <Button Name="EditUserButton" Content="Уволить пользователя" Margin="5" Height="30" FontSize="20" Click="EditUserButton_Click"/>
+                <Button Name="AddUserButton" Content="Добавить нового пользователя" Margin="5" Height="30" FontSize="20" Click="AddUserButton_Click"/>
+                <Button Name="BackButton" Content="Вернуться" Margin="5" Height="30" FontSize="20" Click="BackButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

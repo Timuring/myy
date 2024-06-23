@@ -1,0 +1,19 @@
+﻿<Window x:Class="RealEstateAgency.Window.AdminMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealEstateAgency.Window"
+    Title="Меню администратора" Height="400" Width="629" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Height="353" Width="578">
+            <TextBlock HorizontalAlignment="Center" FontSize="30">Меню Администратора</TextBlock>
+            <Label Height="21"/>
+            <Button Name="UsersButton" Content="Пользователи" Width="400" Height="30" FontSize="20" Margin="5" Click="UsersButton_Click"/>
+            <Button Name="ShiftsButton" Content="Смены" Width="400" Height="30" FontSize="20" Margin="5" Click="ShiftsButton_Click"/>
+            <Button Name="ContractsButton" Content="Договоры" Width="400" Height="30" FontSize="20" Margin="5" Click="ContractsButton_Click"/>
+            <Label Height="83"/>
+            <Button Name="LogoutButton" Content="Выйти" Width="400" Height="30" FontSize="20" Margin="5" Click="LogoutButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

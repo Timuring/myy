@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\ordersforautodiagnost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\ordersforautodiagnost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\autodiagnostmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\autodiagnostmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\autodiagnostmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\autodiagnostmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\ordersforautodiagnost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\ordersforautodiagnost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\ordersformaster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\ordersformaster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shara\\AppData\\Local\\SourceServer\\805b98437d25e370fc2b845682b7d6564165251f134bba0c012b8c38583be3cd\\src\\libraries\\System.Linq.Expressions\\src\\System\\Dynamic\\UpdateDelegates.Generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\mehanicmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\mehanicmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\ordersformehanic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\ordersformehanic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\ordersformehanic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\ordersformehanic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\ordersformaster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\ordersformaster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\mehanicmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\mehanicmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\mastermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\mastermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\window\\mastermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:window\\mastermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\models\\servicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:models\\servicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shara\\source\\repos\\service\\Models\\_20is15Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0442\\20is_15\\\u0448\u0430\u0440\u0430\u043F\u043E\u0432\\service\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E541501E-43E4-4E68-806D-579530FBB593}|service.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateDelegates.Generated.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\AppData\\Local\\SourceServer\\805b98437d25e370fc2b845682b7d6564165251f134bba0c012b8c38583be3cd\\src\\libraries\\System.Linq.Expressions\\src\\System\\Dynamic\\UpdateDelegates.Generated.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\805b98437d25e370fc2b845682b7d6564165251f134bba0c012b8c38583be3cd\\src\\libraries\\System.Linq.Expressions\\src\\System\\Dynamic\\UpdateDelegates.Generated.cs",
+              "ToolTip": "C:\\Users\\shara\\AppData\\Local\\SourceServer\\805b98437d25e370fc2b845682b7d6564165251f134bba0c012b8c38583be3cd\\src\\libraries\\System.Linq.Expressions\\src\\System\\Dynamic\\UpdateDelegates.Generated.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\805b98437d25e370fc2b845682b7d6564165251f134bba0c012b8c38583be3cd\\src\\libraries\\System.Linq.Expressions\\src\\System\\Dynamic\\UpdateDelegates.Generated.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAlwHoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:19:59.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersForAutodiagnost.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForAutodiagnost.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\OrdersForAutodiagnost.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForAutodiagnost.xaml.cs",
+              "RelativeToolTip": "Window\\OrdersForAutodiagnost.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:25:20.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersForAutodiagnost.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForAutodiagnost.xaml",
+              "RelativeDocumentMoniker": "Window\\OrdersForAutodiagnost.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForAutodiagnost.xaml",
+              "RelativeToolTip": "Window\\OrdersForAutodiagnost.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T18:25:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutodiagnostMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AutodiagnostMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\AutodiagnostMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AutodiagnostMenu.xaml.cs",
+              "RelativeToolTip": "Window\\AutodiagnostMenu.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:23:04.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutodiagnostMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AutodiagnostMenu.xaml",
+              "RelativeDocumentMoniker": "Window\\AutodiagnostMenu.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AutodiagnostMenu.xaml",
+              "RelativeToolTip": "Window\\AutodiagnostMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T18:21:44.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersForMehanic.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMehanic.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\OrdersForMehanic.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMehanic.xaml.cs",
+              "RelativeToolTip": "Window\\OrdersForMehanic.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:18:18.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersForMehanic.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMehanic.xaml",
+              "RelativeDocumentMoniker": "Window\\OrdersForMehanic.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMehanic.xaml",
+              "RelativeToolTip": "Window\\OrdersForMehanic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T18:15:32.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MehanicMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MehanicMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\MehanicMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MehanicMenu.xaml.cs",
+              "RelativeToolTip": "Window\\MehanicMenu.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:11:22.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MehanicMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MehanicMenu.xaml",
+              "RelativeDocumentMoniker": "Window\\MehanicMenu.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MehanicMenu.xaml",
+              "RelativeToolTip": "Window\\MehanicMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T18:10:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersForMaster.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMaster.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\OrdersForMaster.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMaster.xaml.cs",
+              "RelativeToolTip": "Window\\OrdersForMaster.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:04:27.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersForMaster.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMaster.xaml",
+              "RelativeDocumentMoniker": "Window\\OrdersForMaster.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\OrdersForMaster.xaml",
+              "RelativeToolTip": "Window\\OrdersForMaster.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T18:04:10.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MasterMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MasterMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\MasterMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MasterMenu.xaml.cs",
+              "RelativeToolTip": "Window\\MasterMenu.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:00:00.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MasterMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MasterMenu.xaml",
+              "RelativeDocumentMoniker": "Window\\MasterMenu.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\MasterMenu.xaml",
+              "RelativeToolTip": "Window\\MasterMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T17:59:48.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Users.xaml",
+              "RelativeDocumentMoniker": "Window\\Users.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Users.xaml",
+              "RelativeToolTip": "Window\\Users.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T16:39:11.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Authorization.xaml",
+              "RelativeDocumentMoniker": "Window\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Authorization.xaml",
+              "RelativeToolTip": "Window\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T16:33:45.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddUser.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AddUser.xaml",
+              "RelativeDocumentMoniker": "Window\\AddUser.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AddUser.xaml",
+              "RelativeToolTip": "Window\\AddUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T16:30:05.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Users.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\Users.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Users.xaml.cs",
+              "RelativeToolTip": "Window\\Users.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA7wDUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:15:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\Authorization.xaml.cs",
+              "RelativeToolTip": "Window\\Authorization.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:14:33.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AddUser.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\AddUser.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Window\\AddUser.xaml.cs",
+              "RelativeToolTip": "Window\\AddUser.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:14:25.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T16:13:11.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Models\\ServiceContext.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceContext.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\Models\\ServiceContext.cs",
+              "RelativeToolTip": "Models\\ServiceContext.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:10:43.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:04:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_20is15Context.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\source\\repos\\service\\Models\\_20is15Context.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\service\\Models\\_20is15Context.cs",
+              "ToolTip": "C:\\Users\\shara\\source\\repos\\service\\Models\\_20is15Context.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\service\\Models\\_20is15Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:03:39.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T16:00:59.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\t\\\u0422\\20is_15\\\u0428\u0430\u0440\u0430\u043F\u043E\u0432\\service\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:00:57.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

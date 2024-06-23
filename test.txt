@@ -1,0 +1,7 @@
+Scaffold-DbContext "Server=localhost;User=root;Password=2004;Database=r_pos3" "Pomelo.EntityFrameworkCore.MySql" -OutputDir "Models"
+172.17.4.11
+Scaffold-DbContext "Server=172.17.4.11;User=20IS_15;Password=1234;Database=service" "Pomelo.EntityFrameworkCore.MySql" -OutputDir "Models"
+proxies
+tools
+pomelo
+7 version

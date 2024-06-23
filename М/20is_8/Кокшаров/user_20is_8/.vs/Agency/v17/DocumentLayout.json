@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\models\\agenstvocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:models\\agenstvocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\contractsforrealtor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\contractsforrealtor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\realtormenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\realtormenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\realtormenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\realtormenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\contractsforrealtor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\contractsforrealtor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\contractsforadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\contractsforadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\contractsforadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\contractsforadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\models\\orderpersonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:models\\orderpersonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\lawyermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\lawyermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\contractsforlawyer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\contractsforlawyer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shara\\AppData\\Local\\SourceServer\\87865cc6a0ff1bc9cae41f6b1a2ba115ddeacec4dbbccb7fb30cbb6fe90c0e62\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\models\\agenstvocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:models\\agenstvocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\contractsforlawyer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\contractsforlawyer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\lawyermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\lawyermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|c:\\users\\shara\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\\20is_8\\\u043A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\window\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6F9EF2-A763-4F32-821A-B585F4234647}|Agency.csproj|solutionrelative:window\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Orderpersonlist.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Models\\Orderpersonlist.cs",
+              "RelativeDocumentMoniker": "Models\\Orderpersonlist.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Models\\Orderpersonlist.cs",
+              "RelativeToolTip": "Models\\Orderpersonlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:13:55.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T16:11:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T16:04:13.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\AppData\\Local\\SourceServer\\87865cc6a0ff1bc9cae41f6b1a2ba115ddeacec4dbbccb7fb30cbb6fe90c0e62\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\87865cc6a0ff1bc9cae41f6b1a2ba115ddeacec4dbbccb7fb30cbb6fe90c0e62\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\shara\\AppData\\Local\\SourceServer\\87865cc6a0ff1bc9cae41f6b1a2ba115ddeacec4dbbccb7fb30cbb6fe90c0e62\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\87865cc6a0ff1bc9cae41f6b1a2ba115ddeacec4dbbccb7fb30cbb6fe90c0e62\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ViewState": "AQIAAAsDAAAAAAAAAAAAwBwDAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:49:27.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AgenstvoContext.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Models\\AgenstvoContext.cs",
+              "RelativeDocumentMoniker": "Models\\AgenstvoContext.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Models\\AgenstvoContext.cs",
+              "RelativeToolTip": "Models\\AgenstvoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AddUser.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\AddUser.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AddUser.xaml.cs",
+              "RelativeToolTip": "Window\\AddUser.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddUser.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AddUser.xaml",
+              "RelativeDocumentMoniker": "Window\\AddUser.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AddUser.xaml",
+              "RelativeToolTip": "Window\\AddUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AdminMenu.xaml",
+              "RelativeDocumentMoniker": "Window\\AdminMenu.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AdminMenu.xaml",
+              "RelativeToolTip": "Window\\AdminMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContractsForAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForAdmin.xaml",
+              "RelativeDocumentMoniker": "Window\\ContractsForAdmin.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForAdmin.xaml",
+              "RelativeToolTip": "Window\\ContractsForAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContractsForLawyer.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForLawyer.xaml",
+              "RelativeDocumentMoniker": "Window\\ContractsForLawyer.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForLawyer.xaml",
+              "RelativeToolTip": "Window\\ContractsForLawyer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContractsForAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\ContractsForAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForAdmin.xaml.cs",
+              "RelativeToolTip": "Window\\ContractsForAdmin.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContractsForLawyer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForLawyer.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\ContractsForLawyer.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForLawyer.xaml.cs",
+              "RelativeToolTip": "Window\\ContractsForLawyer.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwv08AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LawyerMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\LawyerMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\LawyerMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\LawyerMenu.xaml.cs",
+              "RelativeToolTip": "Window\\LawyerMenu.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RealtorMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\RealtorMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\RealtorMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\RealtorMenu.xaml.cs",
+              "RelativeToolTip": "Window\\RealtorMenu.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LawyerMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\LawyerMenu.xaml",
+              "RelativeDocumentMoniker": "Window\\LawyerMenu.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\LawyerMenu.xaml",
+              "RelativeToolTip": "Window\\LawyerMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractsForRealtor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForRealtor.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\ContractsForRealtor.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForRealtor.xaml.cs",
+              "RelativeToolTip": "Window\\ContractsForRealtor.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Users.xaml",
+              "RelativeDocumentMoniker": "Window\\Users.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Users.xaml",
+              "RelativeToolTip": "Window\\Users.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Users.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Users.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\Users.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Users.xaml.cs",
+              "RelativeToolTip": "Window\\Users.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractsForRealtor.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForRealtor.xaml",
+              "RelativeDocumentMoniker": "Window\\ContractsForRealtor.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\ContractsForRealtor.xaml",
+              "RelativeToolTip": "Window\\ContractsForRealtor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RealtorMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\RealtorMenu.xaml",
+              "RelativeDocumentMoniker": "Window\\RealtorMenu.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\RealtorMenu.xaml",
+              "RelativeToolTip": "Window\\RealtorMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AdminMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\AdminMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\AdminMenu.xaml.cs",
+              "RelativeToolTip": "Window\\AdminMenu.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "Window\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Authorization.xaml.cs",
+              "RelativeToolTip": "Window\\Authorization.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Authorization.xaml",
+              "RelativeDocumentMoniker": "Window\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Window\\Authorization.xaml",
+              "RelativeToolTip": "Window\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:31:45.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgenstvoContext.cs",
+              "DocumentMoniker": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Models\\AgenstvoContext.cs",
+              "RelativeDocumentMoniker": "Models\\AgenstvoContext.cs",
+              "ToolTip": "C:\\Users\\shara\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\\20is_8\\\u041A\u043E\u043A\u0448\u0430\u0440\u043E\u0432\\user_20is_8\\Models\\AgenstvoContext.cs",
+              "RelativeToolTip": "Models\\AgenstvoContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCEAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:31:45.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Agency.exe
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Agency.deps.json
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Agency.runtimeconfig.json
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Agency.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Agency.pdb
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\10a\source\repos\user_20is_8\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.csproj.AssemblyReference.cache
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\AddUser.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\AdminMenu.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\Authorization.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForAdmin.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForLawyer.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForRealtor.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\LawyerMenu.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\RealtorMenu.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\Users.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency_MarkupCompile.cache
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency_MarkupCompile.lref
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\AddUser.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\AdminMenu.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\Authorization.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForAdmin.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForLawyer.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForRealtor.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\LawyerMenu.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\RealtorMenu.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Window\Users.baml
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.g.resources
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.AssemblyInfoInputs.cache
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.AssemblyInfo.cs
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.csproj.CoreCompileInputs.cache
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.csproj.CopyComplete
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.dll
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\refint\Agency.dll
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.pdb
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\Agency.genruntimeconfig.cache
+C:\Users\10a\source\repos\user_20is_8\obj\Debug\net7.0-windows\ref\Agency.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Agency.exe
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Agency.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Agency.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Agency.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Agency.pdb
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\AddUser.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\AdminMenu.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\Authorization.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForAdmin.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForLawyer.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForRealtor.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\LawyerMenu.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\RealtorMenu.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\Users.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency_MarkupCompile.cache
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency_MarkupCompile.lref
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\AddUser.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\AdminMenu.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\Authorization.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForAdmin.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForLawyer.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\ContractsForRealtor.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\LawyerMenu.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\RealtorMenu.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Window\Users.baml
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.g.resources
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.csproj.Up2Date
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\refint\Agency.dll
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.pdb
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\Agency.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\ДЭ Максима\20is_8\Кокшаров\user_20is_8\obj\Debug\net7.0-windows\ref\Agency.dll

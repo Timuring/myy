@@ -1,0 +1,39 @@
+﻿<Window x:Class="RealEstateAgency.Window.ContractsForAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealEstateAgency.Window"
+        Title="Договоры Администратора" Height="731" Width="1478" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <TextBlock FontSize="30" FontWeight="Bold" TextAlignment="Center">Договоры</TextBlock>
+            <DataGrid Name="ContractsDataGrid" AutoGenerateColumns="False" FontSize="20" Margin="10" Height="579">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="№" Binding="{Binding Orderid}" />
+                    <DataGridTextColumn Header="Статус договора" Binding="{Binding Orderstatus}" />
+                    <DataGridTextColumn Header="Статус оплаты" Binding="{Binding Paymentstatus}" />
+                    <DataGridTextColumn Header="Метод оплаты" Binding="{Binding Paymentmethod}" />
+                    <DataGridTextColumn Header="Дата создания" Binding="{Binding Datecreation}" />
+                    <DataGridTextColumn Header="Адрес" Binding="{Binding Addres}" />
+                    <DataGridTemplateColumn Header="Клиент">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} {1} {2}">
+                                            <Binding Path="Orderpersonlists[0].Personr.Firstname" />
+                                            <Binding Path="Orderpersonlists[0].Personr.Lastname" />
+                                            <Binding Path="Orderpersonlists[0].Personr.Middlename" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button Name="BackButton" Height="30" FontSize="20" Content="Вернуться" Click="BackButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
